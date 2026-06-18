@@ -1,6 +1,6 @@
-# Hola, soy Angélica Herrera 👋
+# Hola 👋, Bienvenido a mi perfil de GitHub 
 
-## Sobre mí
+## Angélica Herrera | Data Analyst Junior
 
 Soy estudiante de Administración con experiencia en tareas administrativas y actualmente estoy desarrollando mi carrera como Analista de Datos Junior.
 
