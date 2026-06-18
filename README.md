@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hola, soy Angélica Herrera 👋
 
-<!--
-**angelica-herrera/angelica-herrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+Soy estudiante de Administración con experiencia en tareas administrativas y actualmente estoy desarrollando mi carrera como Analista de Datos Junior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa transformar datos en información útil para la toma de decisiones mediante herramientas de análisis, visualización y automatización.
+
+---
+
+## Tecnologías y herramientas
+
+- Python
+- SQL
+- Power BI
+- Google Cloud
+
+---
+
+## Proyectos
+
+### Proyecto Final Diplomatura UNPSJB
+
+Análisis exploratorio de datos y modelado utilizando Python, Pandas y Machine Learning.
+
+Repositorio:
+
+👉 proyecto-final-diplomatura-unpsjb
+
+---
+
+## Actualmente aprendiendo
+
+- Data Analytics
+- Cloud Data Analytics
+- Automatización de procesos
+- Machine Learning
+
+---
+
+## Contacto
+
+📍 Trelew, Chubut, Argentina
+
+💼 LinkedIn:
+www.linkedin.com/in/angelica-l-herrera-guequen
